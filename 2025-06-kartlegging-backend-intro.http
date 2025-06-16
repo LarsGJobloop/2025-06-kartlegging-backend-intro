@@ -1,0 +1,6 @@
+@_2025_06_kartlegging_backend_intro_HostAddress = http://localhost:5239
+
+GET {{_2025_06_kartlegging_backend_intro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
